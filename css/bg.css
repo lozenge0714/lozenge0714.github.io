@@ -48,15 +48,6 @@
 	background: var(--trans-dark);
   }
   
-  
-  /* 夜间模式页脚页头遮罩透明 */
-  /* [data-theme="dark"] #footer::before {
-	background: transparent !important;
-  }
-  [data-theme="dark"] #page-header::before {
-	background: transparent !important;
-  } */
-  
   /* 阅读模式 */
   .read-mode #aside-content .card-widget {
 	background: rgba(253, 250, 240, 0.759) !important;
@@ -68,9 +59,9 @@
   /* 夜间模式下的阅读模式 */
   [data-theme="dark"] .read-mode #aside-content .card-widget {
 	background: rgba(25, 25, 25, 0.9) !important;
-	color: #ffffff;
+	color: #ffffffe0;
   }
   [data-theme="dark"] .read-mode div#post {
 	background: rgba(25, 25, 25, 0.8) !important;
-	color: #ffffff;
+	color: #ffffffe0;
   }
