@@ -61,13 +61,13 @@
   background: transparent !important;
 }
 
-/* 夜间模式遮罩透明
-[data-theme="dark"] #footer::before {
+/* 夜间模式遮罩透明*/
+/* [data-theme="dark"] #footer::before {
   background: transparent !important;
 }
 [data-theme="dark"] #page-header::before {
   background: transparent !important;
-} */
+}  */
 
 /* 霓虹灯 */
 /* 日间模式不生效 */
