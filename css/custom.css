@@ -45,30 +45,6 @@
   left: -60px;
 }
 
-/* 页脚与头图透明 */
-/* #footer {
-  background: transparent !important;
-}
-#page-header {
-  background: transparent !important;
-} */
-
-/* 白天模式遮罩透明 */
-/* #footer::before {
-  background: transparent !important;
-}
-#page-header::before {
-  background: transparent !important;
-} */
-
-/* 夜间模式遮罩透明*/
-/* [data-theme="dark"] #footer::before {
-  background: transparent !important;
-}
-[data-theme="dark"] #page-header::before {
-  background: transparent !important;
-}  */
-
 /* 霓虹灯 */
 /* 日间模式不生效 */
 [data-theme="light"] #site-name,
@@ -77,6 +53,7 @@
 [data-theme="light"] #post-info {
   animation: none;
 }
+
 /* 夜间模式生效 */
 [data-theme="dark"] #site-name,
 [data-theme="dark"] #site-title {
@@ -88,6 +65,7 @@
 [data-theme="dark"] #post-info {
   animation: light_5px 10s linear infinite;
 }
+
 /* 关键帧描述 */
 @keyframes light_15px {
   0% {
