@@ -1,5 +1,5 @@
 :root {
-	--trans-light: rgba(255, 255, 255, 0.88);
+	--trans-light: rgba(255, 255, 255, 0.9);
 	--trans-dark: rgba(25, 25, 25, 0.88);
 	--border-style: 1px solid rgb(169, 169, 169);
 	--backdrop-filter: blur(5px) saturate(150%);
@@ -23,20 +23,20 @@
   div#post,
   div#page,
   div#archive {
-	background: var(--trans-light);
+	background: rgba(255, 255, 255, 0.92);
 	border: var(--border-style);
 	border-radius: 20px;
-	--border-style: 2px solid rgb(195, 188, 236);
+	--border-style: 2px solid rgb(110, 103, 152);
   }
 
   
   /* 导航栏 */
   #page-header.nav-fixed #nav {
-	background: rgba(255, 255, 255, 0.88);
+	background: rgba(255, 255, 255, 0.95);
   }
   
   [data-theme="dark"] #page-header.nav-fixed #nav {
-	background: rgba(0, 0, 0, 0.7) !important;
+	background: rgba(0, 0, 0, 0.8) !important;
   }
   
   /* 夜间模式遮罩 */
@@ -58,19 +58,19 @@
 
   /* 阅读模式 */
   .read-mode #aside-content .card-widget {
-	background: rgba(239, 239, 239, 0.5) !important;
+	background: rgba(239, 239, 239, 0.6) !important;
   }
   .read-mode div#post {
-	background: rgba(239, 239, 239, 0.5) !important;
+	background: rgba(239, 239, 239, 0.6) !important;
   }
   
   /* 夜间模式下的阅读模式 */
   [data-theme="dark"] .read-mode #aside-content .card-widget {
-	background: rgba(25, 25, 25, 0.9) !important;
+	background: rgba(25, 25, 25, 0.85) !important;
 	color: #f0f0f0;
   }
   [data-theme="dark"] .read-mode div#post {
-	background: rgba(25, 25, 25, 0.9) !important;
+	background: rgba(25, 25, 25, 0.85) !important;
 	color: #f0f0f0;
   }
 
