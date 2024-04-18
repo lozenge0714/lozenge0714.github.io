@@ -1,0 +1,277 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>小鹿 | 泉眼</title><meta name="author" content="落滜"><meta name="copyright" content="落滜"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="description" content="关于Criag和Kenny去捕猎的事。我不知道怎么写同人让让我吧">
+<meta property="og:type" content="article">
+<meta property="og:title" content="小鹿">
+<meta property="og:url" content="https://lozenge0714.github.io/posts/9a5cd528">
+<meta property="og:site_name" content="泉眼">
+<meta property="og:description" content="关于Criag和Kenny去捕猎的事。我不知道怎么写同人让让我吧">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg">
+<meta property="article:published_time" content="2024-04-18T13:35:22.443Z">
+<meta property="article:modified_time" content="2024-04-18T14:02:24.241Z">
+<meta property="article:author" content="落滜">
+<meta property="article:tag" content="南方公园">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg"><link rel="shortcut icon" href="https://s1.ax1x.com/2023/03/27/ppshyJe.png"><link rel="canonical" href="https://lozenge0714.github.io/posts/9a5cd528"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="stylesheet" href="/css/index.css?v=4.13.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: {"limitDay":180,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated."},
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体中文","cht_to_chs":"你已切换为简体中文","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#6666cc","bgDark":"#1f1f1f","position":"bottom-left"},
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid@4.11.1/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '小鹿',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2024-04-18 22:02:24'
+}</script><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+        if (t === 'dark') activateDarkMode()
+        else if (t === 'light') activateLightMode()
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><meta name="generator" content="Hexo 7.2.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><script>(()=>{
+  const $loadingBox = document.getElementById('loading-box')
+  const $body = document.body
+  const preloader = {
+    endLoading: () => {
+      $body.style.overflow = ''
+      $loadingBox.classList.add('loaded')
+    },
+    initLoading: () => {
+      $body.style.overflow = 'hidden'
+      $loadingBox.classList.remove('loaded')
+    }
+  }
+
+  preloader.initLoading()
+  window.addEventListener('load',() => { preloader.endLoading() })
+
+  if (true) {
+    document.addEventListener('pjax:send', () => { preloader.initLoading() })
+    document.addEventListener('pjax:complete', () => { preloader.endLoading() })
+  }
+})()</script><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">20</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><hr class="custom-hr"/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw far fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background: transparent"><nav id="nav"><span id="blog-info"><a href="/" title="泉眼"><span class="site-name">泉眼</span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw far fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">小鹿</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2024-04-18T13:35:22.443Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-04-18T14:02:24.241Z" title="更新于 2024-04-18 22:02:24">2024-04-18</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E5%90%8C%E4%BA%BA/">同人</a></span></div><div class="meta-secondline"></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><blockquote>
+<p>⚠ 含有<strong>血腥</strong>等敏感内容，若有不适请停止观看</p>
+</blockquote>
+<p>即使重复上万次，吃生肉绝对是个疯点子。Craig 坐在帐篷里，脚边放着进水的猎枪、刀、几袋虾片、陷阱工具包和一根被 Kenny 塞进来的白蜡烛。他曾拒绝带蜡烛，但 Kenny 想有庆祝感。</p>
+<p>现在并非狩猎季节，他们跑大老远是为崇高的大冒险——哪个男子汉能听了“Dare you not“还不为自己的尊严所动？Craig 和 Kenny 说到做到。两人带着比自己还高一头的猎枪闯入外围拉满铁丝网的幽森之中，他们必须捕到一只猎物，或是野兔，或是松鼠。</p>
+<p>清晨的风穿过针叶，周围满是新鲜的草根味。队长 Craig 走在前头，队员 Kenny 在后边看队长帽子上的绒球随着主人的步伐不断抖动。时间还早，他们收集来参差不齐的树枝和树皮在空地上生火，一起架好携带的帐篷。没等他们设好陷阱，忽然下起倾盆大雨冲灭了营地的火，柴堆瞬间飘出难闻的异味。Craig 先跑进了帐篷，里面只有他们带来的道具。“Kenny？”他没有拉上帐篷的拉链，回头望去全是水雾纷飞的景象。</p>
+<p>一抹橙搅动了无尽的灰，有只小鹿跳进 Craig 的视野，它停留了两秒便蹦回森林之中。</p>
+<p>“等等！”Craig 第一把右手抓了个空，第二把抓起猎枪跑向小鹿消失的方向。男孩踏地的每一脚都溅出半腿高的泥星子，他不断眨动睫毛拨走雨水，吸进体内的氧气全像蒸汽般迸出鼻孔，带动剧烈起伏的胸膛和生风的双腿。小鹿跃过树根、绕过树桩、跨过石块，他们踩扁了上千颗草，直到小鹿蜷缩到一棵老树后。</p>
+<p>比做绳套阱更具挑战性，有意思。Craig 哈出大串的粗气，用手背胡乱抹掉脸上混着泥和雨的浊液。他架起水亮的漆黑猎枪，瞄准距自己不到百米的猎物。</p>
+<p>Craig 对天发誓，在他开枪前一秒绝对有什么温热的东西顶了他的背。</p>
+<p>“好冷……“</p>
+<p>Craig 用双手盖住脸，缓缓往下拖动湿润的脸皮，直到双掌托住自己仍稚嫩的脸蛋，闭上眼发呆。约十分钟后，他的牙齿持续打颤，肌肉的抽搐感越来越重，完全不听 Craig 的使唤的脸做出许多了怪异表情。男孩松开手，把白蜡烛安在木块上，从口袋里掏出打火机试图点燃它。他庆幸老打火机戴了顶厚实的帽子，大拇指弹开顶盖，摩擦齿轮发出的“叮叮”声带来了火和温暖。他很大方，把这份幸福分享给蜡烛。</p>
+<p>外面的雨没有停。Craig 扯开虾片的包装袋，全倒进面前的生肉堆里；中间全是血和内脏，并不雅观，他把蜡烛也放进去。铺着橙色餐布的烛光全肉宴！美中不足的是他无法用大火烤制它们。好在他解体工作做得十分差劲，大部分肢体还看得出原型，反倒不显得寒碜，有零有整。</p>
+<p>Craig 捻起其中一片瘦肉，勉强撬开牙齿，两指间的食物放慢了两倍速掉进的口腔，顺着食道的机械蠕动坠入胃袋。初体验不甜不咸，徒留血腥气淡去的寂寞。他咂咂嘴，嘴里泌出更多唾液后再捞出第二片肉。肉片比他的舌头要暖和，他想象着自己在喝 Kenny 做的番茄汁。虽然很柴，像没调味的什锦蔬菜汤，像菠菜夹心的黑巧克力，像拌了流言蜚语的学校午餐，但还不错。Craig 削去股骨上的肉块，因寒冷而哆嗦的双手削得坑坑洼洼，变相丰富了生食的口感。他伸出舌头舔舐包裹骨头的筋膜和肌肉，它们弹力十足，会紧紧贴上食客的舌头，不计成本地夺去他体内的寒冷，将自己的延续给另一个生命。帐篷外的低地填满了水，帐篷内则是填满了生物的热度。</p>
+<p>“伙计，你说得对。”Craig 咬下血肉堆中粘着腹膜和虾片的肾脏，弄脏了自己的脸和外套，他视若无睹。切好的肉都吞光了，他把排骨掰到身前，俯下头直接啃食，发出细如昆虫振翅的咯咯声。烛光透过苍白骨架的间隙，打在 Craig 樱桃色的红润脸颊上。“庆功宴不能少了氛围。”说罢，他朝着对面的偷窥者比了个中指。</p>
+<p>小鹿仿佛看懂了他的鄙夷，又一次逃进雨里。</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="落滜">落滜</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章链接: </span><span class="post-copyright-info"><a href="https://lozenge0714.github.io/posts/9a5cd528">https://lozenge0714.github.io/posts/9a5cd528</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://lozenge0714.github.io" target="_blank">泉眼</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E5%8D%97%E6%96%B9%E5%85%AC%E5%9B%AD/">南方公园</a></div><div class="post_share"><div class="social-share" data-image="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i>赞助</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://s1.ax1x.com/2023/02/15/pS7TsJA.png" target="_blank"><img class="post-qr-code-img" src="https://s1.ax1x.com/2023/02/15/pS7TsJA.png" alt="wechat"/></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="https://s1.ax1x.com/2023/04/23/p9eaXBq.jpg" target="_blank"><img class="post-qr-code-img" src="https://s1.ax1x.com/2023/04/23/p9eaXBq.jpg" alt="afdian"/></a><div class="post-qr-code-desc">afdian</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/posts/9bcec390" title="帽煤厨房食过都爽"><div class="cover" style="background: var(--default-bg-color)"></div><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">帽煤厨房食过都爽</div></div></a></div><div class="next-post pull-right"><a href="/posts/20962096" title="奔赴于准心之下"><div class="cover" style="background: var(--default-bg-color)"></div><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">奔赴于准心之下</div></div></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">落滜</div><div class="author-info__description">寻找灵魂的火焰</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">20</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fab fa-github"></i><span>Follow Me</span></a></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">约稿爱发电：https://afdian.net/a/lozenge <br/>由于评论的服务器在国外，若无法发布/查看，挂上梯子即可。</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/ff3b7164" title="勇气">勇气</a><time datetime="2024-04-18T13:35:22.495Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/15cf7dfb" title="不防潮鼠辈">不防潮鼠辈</a><time datetime="2024-04-18T13:35:22.493Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/f9238884" title="生活清单 C7">生活清单 C7</a><time datetime="2024-04-18T13:35:22.486Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/8e24b812" title="生活清单 C6">生活清单 C6</a><time datetime="2024-04-18T13:35:22.483Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2024 By 落滜</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.13.0"></script><script src="/js/main.js?v=4.13.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><div class="js-pjax"></div><script id="click-heart" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/click-heart.min.js" async="async" mobile="true"></script><script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener
+  btf.removeGlobalFnEvent('pjax')
+  btf.removeGlobalFnEvent('themeChange')
+
+  document.getElementById('rightside').classList.remove('rightside-show')
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+})
+
+document.addEventListener('pjax:error', e => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script></div></body></html>

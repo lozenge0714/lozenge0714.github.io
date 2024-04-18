@@ -1,0 +1,315 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>不防潮鼠辈 | 泉眼</title><meta name="author" content="落滜"><meta name="copyright" content="落滜"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="description" content="感谢@Zh1的约稿！">
+<meta property="og:type" content="article">
+<meta property="og:title" content="不防潮鼠辈">
+<meta property="og:url" content="https://lozenge0714.github.io/posts/15cf7dfb">
+<meta property="og:site_name" content="泉眼">
+<meta property="og:description" content="感谢@Zh1的约稿！">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg">
+<meta property="article:published_time" content="2024-04-18T13:35:22.493Z">
+<meta property="article:modified_time" content="2024-04-18T14:02:24.223Z">
+<meta property="article:author" content="落滜">
+<meta property="article:tag" content="斯普拉遁">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg"><link rel="shortcut icon" href="https://s1.ax1x.com/2023/03/27/ppshyJe.png"><link rel="canonical" href="https://lozenge0714.github.io/posts/15cf7dfb"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="stylesheet" href="/css/index.css?v=4.13.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: {"limitDay":180,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated."},
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体中文","cht_to_chs":"你已切换为简体中文","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#6666cc","bgDark":"#1f1f1f","position":"bottom-left"},
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid@4.11.1/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '不防潮鼠辈',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2024-04-18 22:02:24'
+}</script><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+        if (t === 'dark') activateDarkMode()
+        else if (t === 'light') activateLightMode()
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><meta name="generator" content="Hexo 7.2.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><script>(()=>{
+  const $loadingBox = document.getElementById('loading-box')
+  const $body = document.body
+  const preloader = {
+    endLoading: () => {
+      $body.style.overflow = ''
+      $loadingBox.classList.add('loaded')
+    },
+    initLoading: () => {
+      $body.style.overflow = 'hidden'
+      $loadingBox.classList.remove('loaded')
+    }
+  }
+
+  preloader.initLoading()
+  window.addEventListener('load',() => { preloader.endLoading() })
+
+  if (true) {
+    document.addEventListener('pjax:send', () => { preloader.initLoading() })
+    document.addEventListener('pjax:complete', () => { preloader.endLoading() })
+  }
+})()</script><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">20</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><hr class="custom-hr"/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw far fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background: transparent"><nav id="nav"><span id="blog-info"><a href="/" title="泉眼"><span class="site-name">泉眼</span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw far fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">不防潮鼠辈</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2024-04-18T13:35:22.493Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-04-18T14:02:24.223Z" title="更新于 2024-04-18 22:02:24">2024-04-18</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E7%A8%BF%E4%BB%B6/">稿件</a></span></div><div class="meta-secondline"></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><blockquote>
+<p>⚠ 含有<strong>色情、暴力</strong>等敏感内容，未成年人禁止阅览！<br>此为他人的付费私稿，禁止私下使用、修改和传播。</p>
+</blockquote>
+</br>
+
+<p>&emsp;&emsp;黏腻的脚步踩在隔壁卫生间没干透的地板，ten 提心吊胆地听门锁响起后布料不断摩挲的声音。他压住呼吸调整好坐姿，背微微后倾，心里估计对方没有那么快出来，除了处理私事，来这更多是图个清静。属于年轻鱿的双手伸向裤链，尽可能不弄出动静来，掏出搏动迹象渐显的茎体——在这绝妙的惊险环境里释放一发。</p>
+<p>&emsp;&emsp;隔间忽然发出微弱谈话声。心仪对象连声音都是完美的，ten 握着下半身无声自言自语。手明明还没开始动，光是想想梅洛斯的脸自己就能很快出来。在踌躇之间他尝试慢点儿抚慰陪伴会自己一生的鹦鹉螺，让其中的墨水有力地生产，注入活力和爱恋，等冲水声这一高潮信号响起时迎来最猛烈的爆发，把过去想做没做成的事情在今天全都补全……他没咬住嘴角，不禁淌了点唾液出来。</p>
+<p>&emsp;&emsp;可能还有呻吟。</p>
+<p>&emsp;&emsp;不一会谈话声便终止了，ten 感到遗憾的同时使劲摁下前端，想象对方发现自己在做这种龌龊事时嫌恶到极点的脸，用锐利的眉峰和惊愕的眼神刺穿自己的心。想入非非的跟踪狂抑住躁动的腿，不轻不重地上下抖动，此举并非出于他的本意，实在是爽炸天……爽到待会被报警抓走也不奇怪。</p>
+<p>&emsp;&emsp;命运听罢给了 ten 临门一脚。</p>
+<p>&emsp;&emsp;“砰！！”</p>
+<p>&emsp;&emsp;门被惊鱿的力量破开，差点留下个大洞来。偶像拉下口罩，面无表情地站在门前，看里头的变态如看垃圾一样无所谓。</p>
+<p>&emsp;&emsp;“见是见过，”扎着马尾的章鱼箭步向前左手抓紧跟踪狂的小臂，右手摁住对方的肩部强制扭转其上半身使得背部朝向自己。</p>
+<p>“而像你胆子这么大的……”梅洛斯改用膝盖顶住青年并不宽阔的背中央，空出手把随身携带的细铁链抽出，他没想到防身用具第一次派上用场竟是对年纪相仿的男性。“还是头一个。” 迅速绑好对方没怎么挣扎的双臂后，出于好奇捏紧了年轻鱿的脸，转过来让他跟自己四目相对。</p>
+<p>&emsp;&emsp;完全是聪明好学生的模样，还挺清秀。梅洛斯咂咂嘴，恶心感暂咽进肚里，换回贴近平日营业用的表情。</p>
+<p>&emsp;&emsp;“你看起来没有怕我的意思啊？”</p>
+<p>&emsp;&emsp;“……”</p>
+<p>&emsp;&emsp;ten 欲言又止，说一点不怕当然是假话。问题在于这张脸太伟大了，将这样的机会据为己有，他决定珍惜每一秒能看多少看多少。梅洛斯更为不解，这鱿鱼不会除了变态其实脑子还有病吧？当手刀打下去收到青年吃痛的叫声才让他放下了心。</p>
+<p>&emsp;&emsp;虽然他在绑紧铁链的同时把门关好了，出于习惯还是多听了会周围的动静。没有其他海产出入，这本就偏僻的厕所只有他们在。明星叹着气，若无其事地抢过对方尚未息屏的手机麻利操作，看看这鱿到底什么来头。好家伙，梅洛斯在心里偷笑，对方是个惯犯。把刚才自己打电话的声音录了下来不说，还藏有不少自己私下出行的影像。被强烈关注的感觉多少冲昏了他的头脑，叫章想吐的同时有股奇特的安心感油然而生。</p>
+<p>&emsp;&emsp;看着变态鱿鱼呆呆凝视自己的模样，梅洛斯用一根触手都能猜出来为什么这变态如此“关照”他了。章鱼收回脸上残存的礼仪，用小混混似的语气向跟踪狂审问信息。</p>
+<p>&emsp;&emsp;“名字？”</p>
+<p>&emsp;&emsp;突然被提问的犯人浑身颤抖。</p>
+<p>&emsp;&emsp;“…我叫 ten。”</p>
+<p>&emsp;&emsp;“多大？”</p>
+<p>&emsp;&emsp;“呃…在读大学。”</p>
+<p>&emsp;&emsp;梅洛斯摇晃起手中的电子产品，“你肯定知道做这些事情是违法的吧？”</p>
+<p>&emsp;&emsp;“我、对不起。”ten 涨红了脸，但目光并没有躲闪，反而愈加灼热，脖子还主动再向后扭些，只为看多几处属于梅洛斯身上的角落。</p>
+<p>&emsp;&emsp;纯变态啊！明星注意到眼前不争的事实——名叫 ten 的青年在这种时刻居然还能勃，不是刚刚才拿自己当撸料打过一发？！可是转念一想，对方体格并不强壮，再说自个的力气远超正常值，应付起来不成问题。坏心眼章鱼有意用膝盖顶几下 ten，看着对方毫不抗拒甚至眼角带点愉悦的神情、白皙且脆弱的后颈、暴露无数弱点的背部、没来得及清理干净的腿间，他……</p>
+<p>&emsp;&emsp;可耻地硬了。</p>
+<p>&emsp;&emsp;靠！明星被自己的反应冲击到，想狠狠扇自己几巴掌。考虑到实际做出来怪没面子，在偶像包袱面前还是稳住了酷哥形象。反正不是我先挑起的事，是对方有错在先。梅洛斯错乱地思考，看看自己的兄弟，再看看眼前跪在地面，脸要再往里推的就会跟马桶盖亲嘴却还目不转睛盯着自己流口水的大学生，诞生出一个糟糕的想法。</p>
+<p>&emsp;&emsp;“既然你做了这些事，”章鱼松开皮带，露出里头已经顶出帐篷的内裤。</p>
+<p>&emsp;&emsp;“接下来我得惩罚你不再犯才行。”</p>
+<p>&emsp;&emsp;我推今天穿的是黑色平角裤……ten 压根没仔细听，眼神如果有能量，绝对把梅洛斯全身的衣服烧个精光。</p>
+<p>&emsp;&emsp;梅洛斯话不多说，直接把 ten 的上衣卷到及胸处，裤子都不用他动手脱，方便得很。食指和中指并入大学生尚未开发的后庭，能感受到肌肉的收缩。内里的环境称不得干燥，也没滑溜到能一口气插到底的程度，明星拿出手指，胡乱地摸犯人湿漉漉的胯间借点墨水做润滑，显得他还挺上道似的。</p>
+<p>&emsp;&emsp;青年时不时扭动身体，根本不习惯被侵入的刺激感，都是从未有过的体验。又疼又难忍，ten 心想。自己可没打算做下面的那个。但梅洛斯的手一擦过敏感的私处，他更正道什么都值了，被入就被入吧！甚至深呼吸配合扩张，缓下恐惧感以放松屁股，以及别突然泄掉，年纪轻轻被说早泄男会很丢脸。</p>
+<p>&emsp;&emsp;专心致志工作中的明星已经加到四指，有点纳闷怎么开阔工程愈发轻松——比起做爱，他更想让对方吃苦头长教训，难道给爽到了不成。怀抱加倍嫌弃感的梅洛斯哈出低落的气，动作和思考逐渐放慢脚步，陷入机械工作模式。为什么要陪个下贱跟踪狂共演三级片？明天还有安排，他本该走在回家的路上，写好充斥陈词滥调的发言稿，吃完饭直接睡觉。ten 的乳尖被梅洛斯当成气泡纸捏，接连不断的爆破声令愉悦不断增生；手指在鱿背表层反复刮擦，画一幅踏进无趣生活的意外，留住发红的怪圈；花光见底的耐心和忍耐，明星不再折磨对方红肿的前胸后臀，两手抓紧鱿鱼发烫的腰大力往后拽，即使铁链在咯吱作响它无法再延伸更多距离。</p>
+<p>&emsp;&emsp;殊不知那双手烫上加火，径直烧穿 ten 的大半神经，墨脉从头顶喷张到脚尖，耳朵比洒满辣椒面的铁板更通红。膨胀的茎体塞入湿润的膛道，凹凸齿轮终于完美契合。各自的主人加满热油，兴致勃勃地筹划下一步对手戏，肉体和精神的双重博弈下到底会是谁先缴械落败，可不止取决于墨水的容量和射速的快慢。</p>
+<p>&emsp;&emsp;心理战术是透明的制胜要诀。梅洛斯沾着汗水的手往半空一挥，特地落在 ten 还在学习怎么吞枪口的屁股上，新添大巴掌印。</p>
+<p>&emsp;&emsp;“呜呜？！”偶像此举害得 ten 差点把腰弯垮，疼痛散落成呻吟。印记不减反增，清脆的啪啪响在铺满瓷砖的空间里回荡，仿佛能把吊灯震碎。连接大腿根处的肉也没被放过，梅洛斯不由分说在上面啃咬，跟小孩子胡乱盖小红花的随意别无二致……可他又爱怜地舔舐残留的咬痕。</p>
+<p>&emsp;&emsp;这算什么？折磨式调情？ten 头晕目眩，把上半身压得更低，将尽数奉献的模样呈现在偶像面前，等他享用自己的饥饿，来满足自己死去活来的淫欲。等不及的腿往后边轻轻踢，催促梅洛斯快点让他去。</p>
+<p>&emsp;&emsp;“别急啊？”梅洛斯立刻理解了其中用意，“我不是来帮你爽的，好吗。”明星有节奏地拍打天上掉的白嫩馅饼，用力度做的番茄酱涂满面皮，每拍中挨近穴口的部分可以收获 ten 咬紧嘴唇也塞不死的吐气声，和耸动肩膀欲挣脱禁锢的困兽举动。绝景，自己更没正鱿君子到哪去的章鱼满足地想。</p>
+<p>&emsp;&emsp;“差不多、够了……！”ten 不是夸张，蓄力太久他快撑不住了，再不让他去一次墨水罐会不会整个爆掉？那便是命案现场，发生这种事谁都不想吧。膝盖和手掌磨在陶瓷上很硬还冰，脑袋和屁股却热得着火，要命两重天。</p>
+<p>&emsp;&emsp;“这就不行啦？”梅洛斯笑着往里再挤挤，愣是不抽动。“我状态很好哦。昨晚睡得饱。”</p>
+<p>&emsp;&emsp;ten 不抱期待地吞口水，卑微地祈求偶像，“让我，让我去一次吧…？”他话音刚落，偶像突然把茎化腕抽出，改成把手伸进去在他收缩的隐口里五指张开。</p>
+<p>&emsp;&emsp;“当然可以，用这里去是一样的吧。”</p>
+<p>&emsp;&emsp;“诶、”温度未褪的冲劲堵回狭窄的肠道，比之前单纯是塞着，现在插得更深三分。自己的手有空能隔着肚皮摸到形状，ten 恐慌地想，野蛮的碰撞加上梅洛斯阴柔的脸明明突兀到炸，自己居然舒服到眼前发黑发白。不成文的喊声全被唾液弄迷糊，叠加喉咙钻出的咕噜咕噜声。ten 成了台能随意鱼肉的处理工具，梅洛斯爱怎么来就怎么来。跟踪狂不知道会有这种下场——好想去——前端噗噗地漏液，偏偏是差那一点爱抚去不了，备受折磨。</p>
+<p>&emsp;&emsp;“啊啊、啊、啊？！不、不！”</p>
+<p>&emsp;&emsp;“你确实是全新呢！”梅洛斯按压他们契合的边缘，碾出不少碎沫来。感觉对方快要去时就抽走茎体，玩味地观察里头差不多能翻出来的肉，看得恶心了才插回去翻操全是墨汁的肉壁。ten 彻底撑不住自身的重量全身斜向地面，偶像贴心的从后边抓起他的头发，不让他撞到水箱上。“唔…不行了吗…”梅洛斯嘟嘟囔囔地解开链条，改成套到 ten 的脖子上。“这样方便点。啊，你没说 No 就是 Yes 咯。”</p>
+<p>&emsp;&emsp;大学生由于长时间的体力消耗失去了应答能力，剩下些简单的“哦”、“啊”可以吐出。被铁链勒紧的喉咙导致他呼吸困难，恍惚地吐出舌头来努力摄取氧气。梅洛斯又玩了会 ten 的屁股，直到自己也快要出来。在全都射进去前梅洛斯撕下几张厕纸叠起来，狠恨地在 ten 的前端上左右搓擦，过分的粗糙度激得 ten 浑身痉挛，一次性秒射几乎三回的量，后面还要吃满梅洛斯浓厚的墨水，兜不住的全溢出来流满胯间，和自己稀啦的墨水打成一片。</p>
+<p>&emsp;&emsp;身心全数落败的 ten 四肢无力昏迷过去，变成一小团泡在梅洛斯墨水里的颤抖鱿鱼。</p>
+<p>&emsp;&emsp;“呜哇……”刚刚纯清理自己没管跟踪狂的明星皱起眉。“这下麻烦了。”</p>
+<p>&emsp;&emsp;怎么办？梅洛斯边擦汗边想。闯祸了呀。</p>
+<p>&emsp;&emsp;幸运的是他想起来公厕有袋子提供，草草地把 ten 装进袋子后梅洛斯悄悄离开此处，走向车站。天色昏昏沉沉，傍晚的余光映入梅洛斯的双眼，他今日无心观赏，只想早点回去处理袋里潮湿的麻烦。</p>
+<p>&emsp;&emsp;事情当然不能透露出去……梅洛斯把露出来的一小截铁链塞回口袋。也算是收获了不会违抗自己的宠物。</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="落滜">落滜</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章链接: </span><span class="post-copyright-info"><a href="https://lozenge0714.github.io/posts/15cf7dfb">https://lozenge0714.github.io/posts/15cf7dfb</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://lozenge0714.github.io" target="_blank">泉眼</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%81/">斯普拉遁</a></div><div class="post_share"><div class="social-share" data-image="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i>赞助</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://s1.ax1x.com/2023/02/15/pS7TsJA.png" target="_blank"><img class="post-qr-code-img" src="https://s1.ax1x.com/2023/02/15/pS7TsJA.png" alt="wechat"/></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="https://s1.ax1x.com/2023/04/23/p9eaXBq.jpg" target="_blank"><img class="post-qr-code-img" src="https://s1.ax1x.com/2023/04/23/p9eaXBq.jpg" alt="afdian"/></a><div class="post-qr-code-desc">afdian</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/posts/ff3b7164" title="勇气"><div class="cover" style="background: var(--default-bg-color)"></div><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">勇气</div></div></a></div><div class="next-post pull-right"><a href="/posts/f9238884" title="生活清单 C7"><div class="cover" style="background: var(--default-bg-color)"></div><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">生活清单 C7</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/posts/d0593964" title="塞翁失马，弱运失……？"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">塞翁失马，弱运失……？</div></div></a></div><div><a href="/posts/20962096" title="奔赴于准心之下"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">奔赴于准心之下</div></div></a></div><div><a href="/posts/9bcec390" title="帽煤厨房食过都爽"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">帽煤厨房食过都爽</div></div></a></div><div><a href="/posts/23cab32d" title="止痛药"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">止痛药</div></div></a></div><div><a href="/posts/9108e0d7" title="海产贴贴二则"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">海产贴贴二则</div></div></a></div><div><a href="/posts/3201978b" title="Present"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">Present</div></div></a></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">落滜</div><div class="author-info__description">寻找灵魂的火焰</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">20</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fab fa-github"></i><span>Follow Me</span></a></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">约稿爱发电：https://afdian.net/a/lozenge <br/>由于评论的服务器在国外，若无法发布/查看，挂上梯子即可。</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/ff3b7164" title="勇气">勇气</a><time datetime="2024-04-18T13:35:22.495Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/15cf7dfb" title="不防潮鼠辈">不防潮鼠辈</a><time datetime="2024-04-18T13:35:22.493Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/f9238884" title="生活清单 C7">生活清单 C7</a><time datetime="2024-04-18T13:35:22.486Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/8e24b812" title="生活清单 C6">生活清单 C6</a><time datetime="2024-04-18T13:35:22.483Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2024 By 落滜</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.13.0"></script><script src="/js/main.js?v=4.13.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><div class="js-pjax"></div><script id="click-heart" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/click-heart.min.js" async="async" mobile="true"></script><script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener
+  btf.removeGlobalFnEvent('pjax')
+  btf.removeGlobalFnEvent('themeChange')
+
+  document.getElementById('rightside').classList.remove('rightside-show')
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+})
+
+document.addEventListener('pjax:error', e => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script></div></body></html>

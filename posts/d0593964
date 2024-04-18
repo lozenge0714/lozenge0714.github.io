@@ -1,0 +1,369 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>塞翁失马，弱运失……？ | 泉眼</title><meta name="author" content="落滜"><meta name="copyright" content="落滜"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="description" content="上一秒Sorry我是直男，下一秒光是看着你就起了。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="塞翁失马，弱运失……？">
+<meta property="og:url" content="https://lozenge0714.github.io/posts/d0593964">
+<meta property="og:site_name" content="泉眼">
+<meta property="og:description" content="上一秒Sorry我是直男，下一秒光是看着你就起了。">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg">
+<meta property="article:published_time" content="2024-04-18T13:35:22.437Z">
+<meta property="article:modified_time" content="2024-04-18T14:02:24.205Z">
+<meta property="article:author" content="落滜">
+<meta property="article:tag" content="斯普拉遁">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg"><link rel="shortcut icon" href="https://s1.ax1x.com/2023/03/27/ppshyJe.png"><link rel="canonical" href="https://lozenge0714.github.io/posts/d0593964"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="stylesheet" href="/css/index.css?v=4.13.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: {"limitDay":180,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated."},
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体中文","cht_to_chs":"你已切换为简体中文","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#6666cc","bgDark":"#1f1f1f","position":"bottom-left"},
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid@4.11.1/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '塞翁失马，弱运失……？',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2024-04-18 22:02:24'
+}</script><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+        if (t === 'dark') activateDarkMode()
+        else if (t === 'light') activateLightMode()
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><meta name="generator" content="Hexo 7.2.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><script>(()=>{
+  const $loadingBox = document.getElementById('loading-box')
+  const $body = document.body
+  const preloader = {
+    endLoading: () => {
+      $body.style.overflow = ''
+      $loadingBox.classList.add('loaded')
+    },
+    initLoading: () => {
+      $body.style.overflow = 'hidden'
+      $loadingBox.classList.remove('loaded')
+    }
+  }
+
+  preloader.initLoading()
+  window.addEventListener('load',() => { preloader.endLoading() })
+
+  if (true) {
+    document.addEventListener('pjax:send', () => { preloader.initLoading() })
+    document.addEventListener('pjax:complete', () => { preloader.endLoading() })
+  }
+})()</script><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">20</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><hr class="custom-hr"/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw far fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background: transparent"><nav id="nav"><span id="blog-info"><a href="/" title="泉眼"><span class="site-name">泉眼</span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw far fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page child" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">塞翁失马，弱运失……？</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2024-04-18T13:35:22.437Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-04-18T14:02:24.205Z" title="更新于 2024-04-18 22:02:24">2024-04-18</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E4%BA%8C%E5%88%9B/">二创</a></span></div><div class="meta-secondline"></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><blockquote>
+<p>⚠ 含有 R-18 描写，未成年请勿阅读。<br>弱运视角占比多，虽然说是 R 级但总的来说只是充斥大量内部梗的搞笑文。</p>
+</blockquote>
+<p>现在是几点档的展开，八点，十点，深夜两点？</p>
+<p>如果是什么庸俗笑话，拜托大先知鱿鱼在上请饶了我吧。弱运陷在懒人沙发上被一道略高于他的影子覆盖，鱿鱼呆若木鸡的模样比以往更像一个香菇。</p>
+<p>他张开嘴准备严肃地说些什么，又唐突锁紧眉头，端着“可能我注定是这样的体质”的释然之情僵硬微笑着虽然还是瞪大眼乱叫了。</p>
+<p>“你在干什么？！”说到最后一个字时弱运差点喊破音。</p>
+<p>“干什么……”酒鬼满脸不解地瞟了邻居一眼，上衣已经解开了一半而且没有停下的势头，“准备做爱啊。”</p>
+<p>“啊？！”</p>
+<p>“你不知道什么是做爱吗？”</p>
+<p>“我知道啊？！”弱运看着眼前白花花的肉体不禁悲伤地用双手盖住自己的脸，救命，谁能来解释一下为什么会突然发展到这个地步？</p>
+<p>原本只是来酒鬼家做客吃顿饭而已。<br></br></br><br>“呐——喂——你有没有在听啊？”</p>
+<p>“噫！”</p>
+<p>弱运刚下工不久坐在街边的长椅上发呆，最近因为频繁加班有点点睡眠不足。忽然肩膀被谁重重地拍了一掌，他差点表演原地超级跳如蜜传如蜜。</p>
+<p>“诶，房东好……”</p>
+<p>虽然女鬼站得端正，他只比坐着的弱运高出一小截。“你怎么见了鬼一样的表情？我再说一次，上个月大慈大悲允许你拖，这个月可要准时交租。不然的话……”女鬼挑起弱运的下巴，略显厚重感的刘海半遮女鬼的眼睛，弱运看不清房东眼里到底怀是有几分杀意还是几分趣意。“我会从你身上找点乐子玩哦？”</p>
+<p>“是主人！保证完成任务！”</p>
+<p>“明白就好。”女鬼坏笑几声从弱运身前退开，吹着口哨回公寓享清福去了。</p>
+<p>弱运目送房东离去，待女鬼在转角处消失他脸上的营业笑容也灰飞烟灭。一刻也没有为鱿身安全的事情哀悼，立即赶来的是钱包的恸哭！怎么办——？！我现在三菜一汤都未必吃得起啊！弱运默默抱头崩溃，预感到今晚不能觉，还是得老实上播讨好观众老爷们给他最爱的打赏。</p>
+<p>“呃呜，呃呜，呃呜呜！”赚米是弱运的唯一出路，社畜又一次在命运前倒下并爬起，何尝不是一种英雄本色！弱运甩甩头直起身，脚踏实地走路带风，带着坚毅的心回家做准备工作。<br></br></br><br>代价是今晚只能吃小面包。</p>
+<p>“呜啊……好想要……好想要……”好想要吃顿好的，打工本来就容易吃饭不规律，好想吃顿好的……弱运抹抹不存在的眼泪，把小面包撕成块状塞进嘴里。</p>
+<p>嗯？突然有股香味从地板洞那飘上来。弱运没空做饭，女鬼和笨蛋都不在家做饭，即使他们请自己去吃他绝对是敬谢不敏，天知道那对没头脑和不高兴会在里面下什么，下了吐根酊他都信。答案只有一个——是住在他楼下的酒鬼。看上去对打工以外的事物漠不关心，其实意外好说话的家伙。</p>
+<p>实在是太香了，弱运没忍住把脑袋埋进洞里看看邻居做了啥饭。</p>
+<p>虾丸，炒饭，新鲜沙拉……仅仅是吸两口菜的鲜香味，内心深处的空虚已被填满，一种无上的温暖充斥在胸膛里。</p>
+<p>“回来了？”</p>
+<p>直到酒鬼开口，弱运才意识到自己偷窥事实败露，脸唰地全红了。</p>
+<p>“嗯……嗯嗯，刚刚出去散心了哈哈。”他吞吞吐吐地别过脸，不敢直视酒鬼。两人间沉默了一会，弱运打算就这么跑路的前一刻酒鬼问道，“要一起吃吗？”</p>
+<p>“可以吗？”</p>
+<p>“做多了。”</p>
+<p>“来！”</p>
+<p>弱运手足舞蹈，连墨索都不用了我特么直接砸地降落，世上还是兄弟好，有伴的社畜像个宝，大餐，我来啦！没等酒鬼反应过来，食客已经乖巧地扒着桌边端正入座。厨师若有似无地叹了口气，把最后一碟菜趁热端上桌。</p>
+<p>“好吃，booyah，太好吃了！”弱运在兄弟面前卸下 996 体系中的营业面具直接大快朵颐，不知道多少天没像这样好好吃过一顿正餐，好吃到泪两行。</p>
+<p>“嗯。”酒鬼一边细嚼慢咽一边凝视弱运大吃特吃，欲言又止。弱运顾着吃饭没有发现今天氛围上的不同。</p>
+<p>不一会，一顿风卷残云直接把餐盘子全吃得渣都不剩，作为感谢弱运主动提出自己来洗碗打扫卫生。酒鬼一手撑着脑袋坐在旁边看弱运忙忙碌碌，一言不发。</p>
+<p>“呼！”这样一来全都干干净净！弱运花了几分钟时间欣赏被他刷得焕然一新的灶台和碗筷，十分得意，他从小到大没少干过活，家务更是手到擒来无难处。“弄好啦。”</p>
+<p>弱运宣布了任务的完成，酒鬼没有回答。“嘿？困了吗？”他走到酒鬼面前摇晃手，是不是睡着了？</p>
+<p>酒鬼眨眨眼，没有理会弱运在他眼前比一二三的手势，“你可以来我房间一下吗？”</p>
+<p>“可以？”弱运快速回想是不是有什么事情没做，但毫无头绪，跟着酒鬼径直走进房间。<br></br></br><br>灯一亮，弱运看到和客厅的极简风格截然不同的世界。也许说出来有点失礼……是个对他们这年龄段的男性来说显得太过可爱的房间，贴着小动物的海报和散落在房间四周的各种毛绒摆件，书桌上有各色手工制品，一些酒静坐在角落的玻璃柜里，以及床上有最为显眼的大章鱼抱枕。虽然和公寓的大家认识了好段时间，弱运还是头一次进酒鬼的卧室。沉浸在新奇感中的弱运没有注意到背后传来细微的咔哒声。</p>
+<p>“喔……真可爱。”弱运摸了摸其中一个贝壳摆件，感觉是棉质的，触感很好。他更没注意到酒鬼和自己的距离越来越近了。</p>
+<p>“那么，”弱运转过头，“到底是什——哇！！”</p>
+<p>可能吃饱了太过放松，弱运感到被轻推了一下，突然下盘一软往后倒，幸运的是刚好有个懒人沙发接住了他，后脑勺幸免于难。那么，代价是什么？一条裹着牛仔裤的大腿顶在他两腿之间。</p>
+<p>“诶？”弱运终于意识到了什么。</p>
+<p>“嗯？”邻居歪头，像是按预定计划进行似的，开始脱自己的衣服。<br></br></br><br>“所以你在惊讶什么。”酒鬼把弱运盖在脸上的手扒开，让鱿鱼的脸重见天日；另一只手则在拉开弱运的裤链，兵分两路。然而他的手刚隔着布料碰到弱运的身体时，对方明显瑟缩了一下。</p>
+<p>“啊……我，我，”脑海里一些不好的回忆如潮水般涌来，弱运差点溺在过往的恐惧感中，指尖立即发凉发白。原来是邀请？不，他从没想过和男人做，曾经差点被不认识的男人侵犯，导致他至今也不习惯与同性有近距离的接触。“我们都没交往吧？这种事，我没想过和男的……虽然……”</p>
+<p>“虽然？”酒鬼没有因此停下来，成功拉开弱运的裤子，里面是条普通到极点的白色四角裤。</p>
+<p>“呜……”虽然和你在一块时没有那种违和感，弱运始终是说不出口。</p>
+<p>“抱歉，是我有错在先。”酒鬼停下手里的动作，转而把自己绑着的后发松开，“你在楼上说的话我听到了。”</p>
+<p>“什么？”弱运想不出来自己有说什么出格的。</p>
+<p>“一直在说‘想要’……而且你有需要也不习惯找人帮忙，所以，如你所见。”</p>
+<p>真的假的！！巨大的蒸汽冲上大脑，本就微红的脸变得通红，弱运超级想重新捂上脸，居然被当成欲求不满了……其实是想吃你的饭，不是说吃你啊！</p>
+<p>酒鬼已经把衬衫全解开了，外套还披在身上没有脱掉，内裤也还在。好瘦，弱运心想，酒鬼平时即使穿宽大的衣服还是能看出来没什么肉，脱掉之后显得更瘦削了，看上去很脆弱。然而鱿鱼转念一想邻居在工地上爆杀鲑鱼的勇猛姿态，脆弱这词和他无缘吧……不不不事到如今胡思乱想什么？应该义正言辞地告诉他“Sorry，我是个直男！”然后快跑！</p>
+<p>“唔。”酒鬼跨坐到弱运身上，被解开的触手顺着肩膀滑落到胸前微微摇晃，俯身凑近弱运的侧脸。酒鬼细长的睫毛在弱运的脸上眨动，扫得他痒痒的。仅仅安静了几秒，弱运体感上是僵持了一个世纪，被极限缩短的距离能清晰感受到彼此的体温，点点湿润的吐息，以及饱腹后勾起微微眩晕的满足感，过渡着没有喝酒又胜似微醺的粘腻。</p>
+<p>好热，虽然都没卸下最后的防线，弱运能隔着下身的布料清晰感受到酒鬼的热度。不知有心还是无意，他们小幅度摩擦着彼此，嘴唇交错，只要稍微推进便能正中靶心，像热恋中的爱侣那样，互相舔舐对方的尖喙，伸出舌交换绵长的深吻。</p>
+<p>“嗯……呼……”本来很排斥的，弱运喘出粗气，明明是排斥的事情。腹股沟的火苗越烧越旺，薄薄的汗水贴在皮肤上挥之不去，酥麻感使得他不想停下。即使低贱如他，也会对未知的情事产生好奇和向往，尽管在幻想里是和温柔又可爱的女孩子做这种事。</p>
+<p>“……不想，做么？”酒鬼轻咬弱运的耳尖发出咕噜声，绕着轮廓将弱运整个左耳舔得湿漉漉，泛出柔和的水光。他含糊地吐着气音提问，激得身下人全身起了鸡皮疙瘩。</p>
+<p>对不起，光是看着我就要勃起了，弱运同样是说不出口。</p>
+<p>“要……。”</p>
+<p>从用餐起就面无表情的酒鬼终于带上一丝稍纵即逝的微笑，把弱运的左耳吃进嘴里，弱运的耳钉同酒鬼的喙碰撞，发出咔哒咔哒的金属声和软体滑动的水声，声音顺着肉体传导进鱿鱼升温的脑子里，细节全听得清清楚楚。</p>
+<p>“唔，唔……”突如其来的刺激弱运实在忍不住，感觉更热了，他用手拉开领口好让热度加速散掉。“你是不是喝醉了……？”他抚上酒鬼的腰掐了掐，果然很纤细。虽然自己算不上健壮，同样作为男性，他偷偷自满自己在身材方面的优势。</p>
+<p>但酒鬼听了似乎不大高兴，松开口并坐直身子，“什么意思？”</p>
+<p>“呃，嗯……我从来没见过你这样主动。”虽然不想承认，对处男来说太超过了吧！</p>
+<p>“难道说，”酒鬼是真的生气了，整个人站起离开沙发，“你觉得我是酒后乱性的类型。换谁都行？”弱运连忙摆手否认，“不不，我不是这个意思。”</p>
+<p>“喔。”章鱼一脸不信，手疾眼快拉开了弱运耐久 1 的内裤，弹出半勃状态的小香菇。</p>
+<p>“呀——！！”还没做好心理准备的鱿鱼发出一声女高风的威廉尖叫，被酒鬼瞪了一眼。</p>
+<p>“和随便的家伙做你不也挺精神。”酒鬼戳了戳那根香菇，在弱运看不见的角度犹豫。</p>
+<p>“这两码事？！”弱运又把手盖脸上，但这次他拉开了手指的缝隙，屏息凝神地观察酒鬼下一步的动作。现在的酒鬼没了开场时的压迫感，怎么看都是充满挑逗意味地往弱运身上吹气，害得他又凉又痒。对方的手包裹住自己的根部下半，掌肉紧紧地贴着肚皮。被别人触碰的感觉很新奇，和自己完全不同，弱运不禁有些扭捏，又感到舒适。而且他不知道，或者说他没想过的是，酒鬼和他一样是第一次做这种事。要说知识储备，可能还不如弱运多——好在章鱼擅长学习。比如某个深夜直播间，公寓里的海产都从中学到了东西。</p>
+<p>酒鬼尝试着揉捏弱运的根腕，力度很轻，速度不快不慢，重复着环紧、松开、再环紧的动作，牵扯出鱿鱼一阵细碎的闷哼，这让他自信增长了少许，好采取更大胆的行动——酒鬼弯着腰将脑袋向前伸，对准弱运的腕尖伸出舌头，打着圈舔舐，直接击沉了弱运的腰，能感受到对方整个身子放松下来，全神贯注在自己的侍奉行为上。</p>
+<p>“xienxien 的……”</p>
+<p>“别，”弱运因为太过羞耻，声带的的抖动比平时要更剧烈，“别一边舔一边，哈啊、说感想……”</p>
+<p>“哼——”酒鬼不以为然，舌头从尖端滑向下方，侧着头轻柔吸吮，将腕尖流出的先走液带到腕体上，给整个根腕涂抹了一层晶莹剔透的水液，还不时因嘴唇张合的动作发出咂咂声。“康着还星，但素战七来，”口交时头前的触手总是会拍在眼前遮挡视线，酒鬼不断地把触手挽到耳后，“杂~鱼。”话音刚落，酒鬼吞进大半的腕体的同时用舌头卷住尖端，弱运咬紧牙关才没被唐突搞泄，居然被说是杂鱼，男人的自尊心绝不允许自己先去！</p>
+<p>“够了！”再这么搞真会缴械投降，弱运立刻抓紧酒鬼的肩膀迫使他吐出自己的老二，怎么看起来那么熟练，有点火大。“既然是做，要一起才算做、做爱吧……”结果说着说着底子开始泄气。</p>
+<p>“唔，咕。”酒鬼鼓起腮帮子含了一会再张嘴，友人的先走液混合着自己的唾液，沿着嘴角滴滴答答落到各自的大腿上，刚刚努力工作的舌头拼命伸长了一段时间，酒鬼干脆继续伸出来放松它。青色的舌体在尖端染上了珍珠奶茶的暖色，看得弱运面红耳赤，尽管舌头的主人没注意到这点。“也……也对。”酒鬼伸手准备脱掉自己的内裤，手碰到边缘时却没有继续动作，僵硬在原地。</p>
+<p>该不会……弱运喘完气恢复了点理智，思维仿佛从未这么灵敏过。该不会害羞了？明明那么主动？</p>
+<p>“什么嘛，原来你也……”弱运假装还没从快乐中缓过来的样子，趁酒鬼不知所措时抓紧了酒鬼的双手手腕，“会有这面！”一不做二不休，弱运借力给酒鬼让对方“自行”褪下布料，像小孩子会有的白净根腕刷地暴露在空气中，大小是和酒鬼的身高不太相称的袖珍。潮红以肉眼可见的速度从酒鬼的脸颊蔓延到耳尖，触手的尖端全都卷缩了起来。</p>
+<p>哇哦，弱运看破不说破，好 xiao……</p>
+<p>“你是不是在想什么很失礼的事情？”酒鬼面无表情，但快速升高的体温和湿润的双眼出卖了他。</p>
+<p>“绝对没有，”弱运摇头，“我在想很可爱。”</p>
+<p>“真是的，你这也很过分吧……”酒鬼嘟嘟囔囔着重新爬上沙发，和弱运面对面坐下，好让他们的根腕贴在一起。“事先声明，”酒鬼用手臂钳制住弱运两侧的空间，“不准使劲。”</p>
+<p>“没问题。”弱运眨巴眼，拍拍胸脯作证。酒鬼点点头，两臂改撑在身后，整个躯体暴露在弱运面前，把主动权递交出去。</p>
+<p>现在轮到弱运来下决策，反正淫靡的气氛一路狂奔到这个地步，他没什么好怕的了。得益于酒鬼刚刚的辛勤，润滑已经十分充足，弱运用手包住两个人的腕体，上下蹭动起来，隔一会便抠弄一下前端，捏捏腕尖边缘的表皮，尽可能刺激周全。</p>
+<p>“……嗯……”酒鬼阖着上眼睑闷哼，音调相对弱运更低沉且带点哑，像深海的水泡，戳破后只是在黑暗中随流而去，而非在阳光下清脆地破碎。听多了说不定会上瘾，弱运心想。</p>
+<p>为什么，突然感到了悲伤呢。</p>
+<p>“呜呜……”弱运一边忙着手活，一边情不自禁小声啜泣起来。</p>
+<p>“嗯？！”本来脑袋逐渐昏沉的酒鬼被哭声惊醒，抚上弱运的脸颊并亲了一口。“怎么了，不舒服吗？”</p>
+<p>“是，嘶，也不是……”弱运猛吸鼻子，“以前确实排斥怎么做，但是，呜呜……”</p>
+<p>“但是？”酒鬼伸出两指帮友人擦去泪水。</p>
+<p>“和你做了之后感觉，好舒服……”酒鬼感到自己的腕尖突然被捏紧，电流刺进腰间使不上力，整个人倒在弱运身前，眼镜掉了下来。收紧感褪去后紧接着重重的一按，大腿和根腕交叠蹭动的频率高了不少。</p>
+<p>“呜咕？！你等、！”</p>
+<p>“哈呜，这么幸福对我来说……真的……”弱运没有停下，咬住酒鬼的耳朵加速撸动，那条声明他打一开始就没打算遵守，报复的好机会怎么能放过？手指直接探入对方的腕尖，使劲抠弄内部的沟槽给予直接且大量的刺激，直让酒鬼浑身发抖根本说不出话。“啊、不，呜噫嗯！！”酒鬼想尝试离开，偏偏他不愿被发现的弱点，弱运就这么猜对了——被掐住腰就会酥软的不行，只能忍受弱运接下来的一系列举动。</p>
+<p>“真的没关系吗……呜！”弱运分外地口干舌燥，混乱中舔着酒鬼的脸寻觅水源。</p>
+<p>“不、不行、我，唔？！”有点刺的湿润感在脸上游走，酒鬼首次理解身体脱离自我控制时的无助，更恐怖的是，其能带来的甘美也是自控时无法比拟的。</p>
+<p>“我快到了……！”“呜，我也……”</p>
+<p>两人的大脑都在剧烈地放电，萌动的春心在欲望的推动下抛却了平日的条条框框，没有常识枷锁的他们迎来顶点前同时将嘴唇贴向另一具肉体，交换热烈到可以融化冻土的吻。</p>
+<p>在寒冷的夜里燥热起身体，贴近、交叠、亲吻，共行私密又淫靡的情事……那便是堕落的开端啊。</p>
+<p>一道白光同时刺穿弱运和酒鬼的眼睛，令他们目不能视，徒留抽搐着的飘然肉体，灵魂被抽离到茫茫的大洋中。</p>
+<p></br></br></br></br><br>花絮：</p>
+<p>“嗯~？你到这个程度就不行了——真是逊毙 ♡ 杂鱼，杂鱼 ♡”</p>
+<p>【感觉主播今天性致高涨~绘声绘色不少啊】</p>
+<p>【以前明明像棒读台词 ww】</p>
+<p>【该不会交男朋友了吧？！喂，那我可不推了！】</p>
+<p>【笑死，楼上破防什么 w 处男吗 w】</p>
+<p>【hso 我 tm 打钱！】</p>
+<p>“呀~谢谢打赏——什么的，区区弱鸡 ♡ 给我钱是应该的喔！”</p>
+<p>【靠，这么出言不逊，硬了】</p>
+<p>……</p>
+<p>我的老天……弱运下播后赶紧查流水，第一次拿到这么多打赏，做梦都不敢想啊。</p>
+<p>而且，杂鱼什么的……本来这些话，都只是营业用的人设台词罢了。弱运猛拍脸颊，然而根本忘不掉。现在那些话都有了分辨率过高到超负荷的真实画面，太糟糕了。还说是网上学来的，学些什么不好学这个，虽然自己根本没资格说。</p>
+<p>“说的时候脸也太色情了吧……”</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="落滜">落滜</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章链接: </span><span class="post-copyright-info"><a href="https://lozenge0714.github.io/posts/d0593964">https://lozenge0714.github.io/posts/d0593964</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://lozenge0714.github.io" target="_blank">泉眼</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%81/">斯普拉遁</a></div><div class="post_share"><div class="social-share" data-image="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i>赞助</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://s1.ax1x.com/2023/02/15/pS7TsJA.png" target="_blank"><img class="post-qr-code-img" src="https://s1.ax1x.com/2023/02/15/pS7TsJA.png" alt="wechat"/></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="https://s1.ax1x.com/2023/04/23/p9eaXBq.jpg" target="_blank"><img class="post-qr-code-img" src="https://s1.ax1x.com/2023/04/23/p9eaXBq.jpg" alt="afdian"/></a><div class="post-qr-code-desc">afdian</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/posts/20962096" title="奔赴于准心之下"><div class="cover" style="background: var(--default-bg-color)"></div><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">奔赴于准心之下</div></div></a></div><div class="next-post pull-right"><a href="/posts/25e1c0d9" title="一切的开始"><div class="cover" style="background: var(--default-bg-color)"></div><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">一切的开始</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/posts/20962096" title="奔赴于准心之下"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">奔赴于准心之下</div></div></a></div><div><a href="/posts/9bcec390" title="帽煤厨房食过都爽"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">帽煤厨房食过都爽</div></div></a></div><div><a href="/posts/23cab32d" title="止痛药"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">止痛药</div></div></a></div><div><a href="/posts/9108e0d7" title="海产贴贴二则"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">海产贴贴二则</div></div></a></div><div><a href="/posts/3201978b" title="Present"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">Present</div></div></a></div><div><a href="/posts/f9c2a524" title="老电影院"><div class="cover" style="background: var(--default-bg-color)"></div><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2024-04-18</div><div class="title">老电影院</div></div></a></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://s1.ax1x.com/2023/02/20/pSO7urR.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">落滜</div><div class="author-info__description">寻找灵魂的火焰</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">20</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fab fa-github"></i><span>Follow Me</span></a></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">约稿爱发电：https://afdian.net/a/lozenge <br/>由于评论的服务器在国外，若无法发布/查看，挂上梯子即可。</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/ff3b7164" title="勇气">勇气</a><time datetime="2024-04-18T13:35:22.495Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/15cf7dfb" title="不防潮鼠辈">不防潮鼠辈</a><time datetime="2024-04-18T13:35:22.493Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/f9238884" title="生活清单 C7">生活清单 C7</a><time datetime="2024-04-18T13:35:22.486Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/8e24b812" title="生活清单 C6">生活清单 C6</a><time datetime="2024-04-18T13:35:22.483Z" title="发表于 2024-04-18 21:35:22">2024-04-18</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2024 By 落滜</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.13.0"></script><script src="/js/main.js?v=4.13.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><div class="js-pjax"></div><script id="click-heart" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/click-heart.min.js" async="async" mobile="true"></script><script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener
+  btf.removeGlobalFnEvent('pjax')
+  btf.removeGlobalFnEvent('themeChange')
+
+  document.getElementById('rightside').classList.remove('rightside-show')
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+})
+
+document.addEventListener('pjax:error', e => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script></div></body></html>
